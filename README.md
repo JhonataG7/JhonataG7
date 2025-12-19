@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Jhonata Guilherme
 
-<!--
-**JhonataG7/JhonataG7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência da Computação**  
+💻 Apaixonado por **programação** e desenvolvimento de sistemas  
+🚀 Focado em **Back-End** e **Full Stack**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias que utilizo
+- JavaScript | Node.js | Express
+- Python | Java
+- MongoDB | MySQL
+- React (em evolução 👀)
+- Git & GitHub
+
+---
+
+## 📌 Projetos em destaque
+🔹 **FisioWeb App**  
+Sistema de agendamento para fisioterapia  
+➡ Backend em Node.js + Express + MongoDB  
+
+🔹 **Sistema Solar VR**  
+Projeto em A-Frame com visualização em realidade virtual  
+
+🔹 **Simulação de Robôs**  
+PyBullet + Node-RED para comunicação supervisória  
+
+---
+
+## 🎯 Objetivo profissional
+Entrar na área de desenvolvimento de software, aplicando boas práticas, aprendendo com equipes experientes e evoluindo constantemente como programador.
+
+---
+
+## 📫 Contato
+- GitHub: https://github.com/JhonataG7
+- LinkedIn: 
+
+⭐ Sempre aprendendo. Sempre codando.
