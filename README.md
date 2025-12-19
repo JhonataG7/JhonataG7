@@ -35,6 +35,6 @@ Entrar na área de desenvolvimento de software, aplicando boas práticas, aprend
 
 ## 📫 Contato
 - GitHub: https://github.com/JhonataG7
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/jhonata-guilherme-2032922b9/
 
 ⭐ Sempre aprendendo. Sempre codando.
