@@ -10,7 +10,7 @@
 - JavaScript | Node.js | Express
 - Python | Java
 - MongoDB | MySQL
-- React (em evolução 👀)
+- React
 - Git & GitHub
 
 ---
