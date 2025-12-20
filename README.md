@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Jhonata Guilherme
+# 👋 Olá, eu sou o Jhonata
 
 🎓 Estudante de **Ciência da Computação**  
 💻 Apaixonado por **programação** e desenvolvimento de sistemas  
