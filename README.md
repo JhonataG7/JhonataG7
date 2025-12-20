@@ -6,7 +6,6 @@
 
 ---
 
-## 🧠 Tecnologias que utilizo
 ## 🛠️ Tecnologias
 
 ### Linguagens
